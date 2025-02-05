@@ -1,9 +1,5 @@
 [
   {
-    "url": "https://github.com/frappe/erpnext.git",
-    "branch": "version-15"
-  },
-  {
     "url": "https://github.com/frappe/press.git",
     "branch": "master"
   }
